@@ -1,11 +1,6 @@
 Row 1 for Commit 1
 Row 1 for Commit 2
 Row 2 for Commit 1
-Row 1 for Commit 4
 Row 2 for Commit 2
-Row 2 for Commit 4
 Row 1 for Commit 3
 Row 2 for Commit 3
-Row 3 for Commit 4
-Row 1 for Commit 5
-Row 2 for Commit 5
