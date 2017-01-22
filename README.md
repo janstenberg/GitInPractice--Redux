@@ -1,6 +1,6 @@
 # GitInPractice--Redux
 Git Tutorial
-Branch creation, step 1.
-Step 2.
-Local step 3
-Local step 4
+
+= Remote changes =======================
+
+= Local changes ========================
